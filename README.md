@@ -1,2 +1,30 @@
-# PM-Revenue-Workload-Analysis
-Built an interactive Tableau dashboard analyzing PM operational efficiency, workload allocation, and revenue performance across a 6-month period. Used calculated fields, performance segmentation, scatterplots, and interactive filters to identify relationships between task allocation, workload distribution, and revenue outcomes.
+# PM Revenue & Workload Analysis
+
+## Project Overview
+This project analyzes project manager (PM) operational performance across a 6-month period using Tableau.
+
+The dashboard explores:
+- Revenue trends over time
+- PM workload allocation
+- Task distribution by performance group
+- Operational efficiency relationships between time spent and revenue generated
+
+## Key Insights
+- Revenue performance does not appear to scale directly with total hours worked.
+- Top-performing PMs appear to allocate a larger share of time toward study field work and preparation activities.
+- PMs with similar workloads can produce significantly different revenue outcomes, suggesting operational efficiency differences.
+
+## Tools Used
+- Tableau
+- SQL
+- GitHub
+
+## Dashboard Features
+- Interactive filtering
+- Performance segmentation
+- Scatterplot analysis
+- Time-series revenue trends
+- Comparative workload visualization
+
+## Files
+- Tableau packaged workbook (.twbx)
