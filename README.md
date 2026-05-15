@@ -9,6 +9,9 @@ The dashboard explores:
 - Task distribution by performance group
 - Operational efficiency relationships between time spent and revenue generated
 
+- ## Live Dashboard
+[View Interactive Tableau Dashboard](https://public.tableau.com/views/PMRevenueWorkloadAnalysis/PMRevenueWorkloadAnalysis?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 ## Key Insights
 - Revenue performance does not appear to scale directly with total hours worked.
 - Top-performing PMs appear to allocate a larger share of time toward study field work and preparation activities.
